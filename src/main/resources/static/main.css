@@ -1,0 +1,46 @@
+body {
+    background: url(https://img.wallpapersafari.com/desktop/1024/576/95/83/mwGcxr.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.weddingFooter {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 5%;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Style Script', cursive;
+    text-align: center;
+}
+
+.homeCenter {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+#homePic {
+    width: 70%;
+}
+
+.colCenter{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%);
+}
